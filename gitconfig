@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kyle.r.nichols@gmail.com
+	name = Kyle Nichols
